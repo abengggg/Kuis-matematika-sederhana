@@ -6,7 +6,8 @@ public class mathQuiz {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        System.out.println("=== Math Quiz App ===");
+        System.out.println("============ Math Quiz App ============");
+        System.out.println("Selamat datang di aplikasi kuis matematika")
         System.out.println("Pilih tingkat kesulitan:");
         System.out.println("1. Mudah (1-10)");
         System.out.println("2. Sedang (10-50)");
